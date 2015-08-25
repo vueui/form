@@ -1,0 +1,22 @@
+{
+  "name": "@vueui/form",
+  "version": "0.0.1",
+  "description": "Semantic UI form.",
+  "main": "index.js",
+  "scripts": {},
+  "devDependencies": {
+    "babel-core": "^5.6.15",
+    "babel-loader": "^5.2.2",
+    "html-loader": "^0.3.0",
+    "jade": "^1.11.0",
+    "jade-html-loader": "0.0.2",
+    "node-libs-browser": "^0.5.2",
+    "webpack": "^1.10.0"
+  },
+  "author": "Agon Bina <agon_bina@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "domready": "^1.0.8",
+    "vue": "^0.12.11"
+  }
+}
